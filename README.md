@@ -1,7 +1,7 @@
-# 8-Puzzle Solver Using Machine Learning
+# Game Solvers Using Machine Learning
 
-- Uses Minimax & Expectimax Decision Tree to optimally solve 8-Puzzle game
+- Uses Minimax Decision Tree to solve 8-Puzzle game optimally
+- Uses Expectimax Tree to Optimally Play Tic-Tac-Toe
 - Uses Windows Forms App Environment
-- Showcases Full Applied Implementations of Djikstras, A-Star and Informed Search Algorithms
+- Showcases fully applied Implementations of Djikstras, A-Star, and Informed Search Algorithms
 - Alpha-Beta Pruning In-Progress
-- Full Solver Under 8PuzzleSolver folder
